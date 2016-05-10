@@ -55,6 +55,7 @@
   },
   "dependencies": {
     "browserify": "^13.0.0",
+    "browserify-incremental": "^3.1.1",
     "watchify": "^3.7.0",
     "coverify": "^1.4.1",
     "mocaccino": "^1.8.0",
@@ -68,13 +69,11 @@
     "min-wd": "^2.9.0",
     "brout": "^1.1.0",
     "source-mapper": "^2.0.0",
-    "which": "^1.2.1"
+    "which": "^1.2.1",
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
-    "browserify-incremental": "^3.1.1",
-    "eslint": "^1.10.3",
-    "jslint": "^0.8",
-    "xtend": "^4.0.1"
+    "eslint": "^1.10.3"
   },
   "files": [
     "bin",
